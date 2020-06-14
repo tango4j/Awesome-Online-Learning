@@ -9,16 +9,16 @@ A list of papers and studies about online learning and less forgettable neural n
 	[Paper](https://arxiv.org/pdf/2004.10956.pdf)
 	
 	○ Mnemonics Training: Multi-Class Incremental Learning without Forgetting (CVPR 2020)
-	[Paper](https://arxiv.org/pdf/2002.10211.pdf
+	[Paper](https://arxiv.org/pdf/2002.10211.pdf)
 
 	○ Continual learning with hypernetworks (ICLR 2020)
-	[Paper](https://openreview.net/forum?id=SJgwNerKvB
+	[Paper](https://openreview.net/forum?id=SJgwNerKvB)
 	
 	○ Continual Learning with Adaptive Weights (ICLR 2020)
-	[Paper](https://openreview.net/pdf?id=Hklso24Kwr
+	[Paper](https://openreview.net/pdf?id=Hklso24Kwr)
 	
 	○ Just Scan - Scalable and Order-robust Continual Learning with Additive Parameter Decomposition (ICLR 2020)
-	[Paper](https://openreview.net/pdf?id=r1gdj2EKPB
+	[Paper](https://openreview.net/pdf?id=r1gdj2EKPB)
 	
 	
 ### 2019
