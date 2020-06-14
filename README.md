@@ -6,7 +6,7 @@ A list of papers and studies about online learning and less forgettable neural n
 ### 2020
 
 	○ Few-Shot Class-Incremental Learning (CVPR 2020)
-	[Paper](https://arxiv.org/pdf/2004.10956.pdf)
+	[Paper][https://arxiv.org/pdf/2004.10956.pdf]
 	
 	○ Mnemonics Training: Multi-Class Incremental Learning without Forgetting (CVPR 2020)
 	[Paper](https://arxiv.org/pdf/2002.10211.pdf)
